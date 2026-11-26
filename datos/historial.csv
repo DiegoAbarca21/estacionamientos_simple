@@ -1,0 +1,2 @@
+fecha_hora,tipo,actor,reserva,estacionamiento,estacionamiento_anterior,propietario,cliente,inicio,fin,estado,monto,detalle
+2026-11-26 02:37,CARGA_INICIAL,sistema,,,,,,,,,,horarios del dataset para 4 semanas
